@@ -100,6 +100,19 @@
     "captionLeft": 20,
     "captionRight": 620,
     "foregroundColor": "#0eb8ba",
+    "backgroundImage": "nyc.png"
+  }
+  
+   "Food Is Wasted": {
+    "width": 640,
+    "height": 640,
+    "samplesPerFrame": 64,
+    "waveTop": 20,
+    "waveBottom": 300,
+    "captionTop": 340,
+    "captionLeft": 20,
+    "captionRight": 620,
+    "foregroundColor": "#0eb8ba",
     "backgroundImage": "food-is-wasted.png"
   }
 }
